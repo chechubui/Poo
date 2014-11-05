@@ -1,0 +1,7 @@
+#Ignoramos copias de seguridad
+*~
+*.swp
+#Ignorando este fichero
+#.gitignore(hacer en casa luego)
+#ignoramos los .class
+*.class
